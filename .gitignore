@@ -87,3 +87,6 @@ TODO
 
 # Generated folder (Testing)
 2020/*
+
+# Libs folder
+!libs/*.jar
