@@ -35,6 +35,8 @@ tmp/
 .recommenders
 TODO
 
+target/*
+
 # External tool builders
 .externalToolBuilders/
 
